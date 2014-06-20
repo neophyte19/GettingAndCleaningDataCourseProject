@@ -14,8 +14,7 @@ The raw data contains both test and training data set from the experiment carrie
 Pre-requisite to run the code:
 ------------------------------
 
-  Download and extract the source data from the URL 
-  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+  Download and extract the source data from the URL : "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   Extract the downloaded Zip to working directory and you should have a folder named UCI HAR Dataset with the test and    training folders inside for running the code
 
   Sample R code to do the above : 
